@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nike-landing-page/static/css/main.ef141bbb.css",
+    "main.js": "/nike-landing-page/static/js/main.0f4bce8d.js",
+    "static/js/453.0daa768d.chunk.js": "/nike-landing-page/static/js/453.0daa768d.chunk.js",
+    "static/media/background 1.png": "/nike-landing-page/static/media/background 1.30d36df2e4c508281031.png",
+    "static/media/CentraNo2-Bold.ttf": "/nike-landing-page/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/nike-landing-page/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/nike-landing-page/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/nike_logo_2-removebg-preview.png": "/nike-landing-page/static/media/nike_logo_2-removebg-preview.634b6db35d31d3d2e56e.png",
+    "static/media/air-force-1.png": "/nike-landing-page/static/media/air-force-1.e2753b7d3959c4c6fec1.png",
+    "static/media/Airforce.png": "/nike-landing-page/static/media/Airforce.adc23a267678bddb792f.png",
+    "static/media/air-force-1-07-mens-shoes-jBrhbr (1).png": "/nike-landing-page/static/media/air-force-1-07-mens-shoes-jBrhbr (1).b984c38df9107b048409.png",
+    "index.html": "/nike-landing-page/index.html",
+    "main.ef141bbb.css.map": "/nike-landing-page/static/css/main.ef141bbb.css.map",
+    "main.0f4bce8d.js.map": "/nike-landing-page/static/js/main.0f4bce8d.js.map",
+    "453.0daa768d.chunk.js.map": "/nike-landing-page/static/js/453.0daa768d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef141bbb.css",
+    "static/js/main.0f4bce8d.js"
+  ]
+}
